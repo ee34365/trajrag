@@ -1,0 +1,14 @@
+# data / stores (not distributed)
+*.pkl
+*.jsonl
+*.parquet
+*.csv
+*.npy
+*.graphml
+# caches / logs / build
+*.log
+*.bak*
+__pycache__/
+*.pyc
+.DS_Store
+/tmp/
